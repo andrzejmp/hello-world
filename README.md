@@ -1,4 +1,3 @@
 # hello-world
-repository for learning purposes
-this is a branch
-this is a new branch
+<h1> Jak to działa?</h1>
+**bold**
